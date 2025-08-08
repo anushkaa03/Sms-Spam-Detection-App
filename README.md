@@ -1,6 +1,5 @@
-.
 
-📩 SMS Spam Detector
+**📩 SMS Spam Detector**
 A Streamlit web application that classifies SMS messages as Spam or Ham using Natural Language Processing (NLP) and Machine Learning.
 
 📍 Description
